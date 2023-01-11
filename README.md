@@ -14,7 +14,9 @@
 
 ## Description
 
-[Try out the Weather Dashboard!](put deployed website)
+[Try out the Weather Dashboard!](https://darrenkwatanabe.github.io/Weather-Dashboard/)
+
+Site is not ready yet.
 
 ## Usage
 
